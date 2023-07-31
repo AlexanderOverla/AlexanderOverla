@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderOverla
 - 👀 I’m interested in hunting, fishing, gaming, and networking. 
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently learning React and Python. 
 - 📫 You can reach me at alexanderoverla@gmail.com
 
 <!---
